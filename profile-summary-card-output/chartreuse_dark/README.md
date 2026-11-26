@@ -25,20 +25,20 @@
 
 ---
 
-![](./3-stats.svg)
+![](./2-most-commit-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/duck8823/duck8823/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/duck8823/duck8823/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)
 ```
 
     
 
 ---
 
-![](./4-productive-time.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/duck8823/duck8823/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
+![](https://raw.githubusercontent.com/duck8823/duck8823/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)
 ```
 
     
